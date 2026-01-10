@@ -8,6 +8,8 @@ body{
     margin: 0;
     padding: 0;
 
+    border: 0.5px #627382
+
 }
 
 .font-inter {
@@ -66,6 +68,7 @@ nav .nav-btn .btn{
     background-image: url(/assets/hero-bg.png);
     background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
    
 }
 .banner-content{
@@ -347,8 +350,8 @@ nav .nav-btn .btn{
     justify-content: space-between;
     align-items: center;
     margin: 0 auto;
-    padding: 40px 80px 20px;
-    /* padding: 120px; */
+    /* padding: 40px 80px 20px; */
+     padding: 120px; 
     max-width: 1200px;
     width: 100%;
 }
@@ -373,38 +376,7 @@ hr{
     font-size: 16px;
     font-weight: 400;
     text-align: center;
-    margin: 30px auto;
+    margin: 20px auto;
+    padding: 30px;
 }
 
-/* footer{
-    max-width: 1600px;
-    width: 100%;
-    min-height: 350px;
-    margin: 0 auto;
-    background-color: #001931;
-    border: 1px solid red ;
-    
-}
-
-
-/* .footer-section {
-    max-width: 1200px;
-    width: 100%;
-    margin: 120px;
-    border: 1px solid rgb(185, 31, 31);
-    padding: 120px;
-} */
-.footer-section .footer-head{
-    max-width: 1200px;
-    width: 100%;
-    /* margin: 0 auto; */
-    border: #FFFFFF;
-
-
-    display: flex;
-    justify-content: space-between;
-
-
-}
-
- */
