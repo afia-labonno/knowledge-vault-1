@@ -330,3 +330,81 @@ nav .nav-btn .btn{
     color: #627382;
     
 }
+
+
+/* footer section */
+.footer{
+    background-color: #001931;
+    color:#FFFFFF;
+
+    max-width: 1600px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 40px 80px 20px;
+    /* padding: 120px; */
+    max-width: 1200px;
+    width: 100%;
+}
+hr{
+    margin: 0 120px 0;
+}
+
+.social .links p{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+}
+.social .icons a img{
+    height: 20px;
+    width:20px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    margin-top: 16px;   
+   cursor: pointer;
+}
+.footer-bottom{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin: 30px auto;
+}
+
+/* footer{
+    max-width: 1600px;
+    width: 100%;
+    min-height: 350px;
+    margin: 0 auto;
+    background-color: #001931;
+    border: 1px solid red ;
+    
+}
+
+
+/* .footer-section {
+    max-width: 1200px;
+    width: 100%;
+    margin: 120px;
+    border: 1px solid rgb(185, 31, 31);
+    padding: 120px;
+} */
+.footer-section .footer-head{
+    max-width: 1200px;
+    width: 100%;
+    /* margin: 0 auto; */
+    border: #FFFFFF;
+
+
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+ */
