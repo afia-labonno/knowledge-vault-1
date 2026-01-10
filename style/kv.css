@@ -165,7 +165,6 @@ nav .nav-btn .btn{
 /*cards */
 .cards{
     display: flex;
-    /* flex-wrap: wrap; */
     justify-content: center; 
     gap:24px;
     
@@ -218,4 +217,51 @@ nav .nav-btn .btn{
     margin-bottom:24px;
     line-height: 20px;
 }
+/* second brain section */
+#second-brain{
+    background-color: #FFFFFF;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+#second-brain .brain{
+    display: flex;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.brain .image{
+    height: auto;
+    width: auto;
+    box-sizing: border-box;
+}
+.description{
+    margin: 120px 60px;
+}
+.solution .sol-head{
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #30B868;
+
+}
+.solution .heading{
+    font-size: 30px;
+    font-weight: bold;
+    color: #001931;
+}
+.solution .paragraph{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 16px;
+    color: #627382;
+}
+.description .task-list ul{
+    margin-top: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    list-style-type: none;
+    color: #001931;
+}
+
 
