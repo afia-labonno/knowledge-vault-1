@@ -66,6 +66,7 @@ nav .nav-btn .btn{
     text-align: center;
 
     background-image: url(/assets/hero-bg.png);
+    background-color:#001931cc;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
